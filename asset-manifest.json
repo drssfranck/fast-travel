@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fast-travel/static/css/main.d1ac5d9d.css",
+    "main.js": "/fast-travel/static/js/main.f033dd89.js",
+    "static/media/alex.jpg": "/fast-travel/static/media/alex.e3a4bd80aa9f991f45d3.jpg",
+    "static/media/immigration1.jpg": "/fast-travel/static/media/immigration1.0a4b4d0888573c136ad4.jpg",
+    "static/media/usinechine.jpg": "/fast-travel/static/media/usinechine.39cfab0208b492389108.jpg",
+    "static/media/flycarousel.jpg": "/fast-travel/static/media/flycarousel.388bd0e7dd5e9ff25b70.jpg",
+    "static/media/colis.jpg": "/fast-travel/static/media/colis.85bcf858d76639cf6232.jpg",
+    "static/media/logo.png": "/fast-travel/static/media/logo.5cbb16738c6c5269224b.png",
+    "index.html": "/fast-travel/index.html",
+    "main.d1ac5d9d.css.map": "/fast-travel/static/css/main.d1ac5d9d.css.map",
+    "main.f033dd89.js.map": "/fast-travel/static/js/main.f033dd89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ac5d9d.css",
+    "static/js/main.f033dd89.js"
+  ]
+}
